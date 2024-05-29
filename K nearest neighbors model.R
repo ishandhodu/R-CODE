@@ -1,8 +1,5 @@
 
-setwd("C:/Users/idhodapkar1/OneDrive - Babson College/AQM 2000/Data")
-rm(list = ls())          
-gc()                    
-cat("\f")
+
 
 # LOAD THE DATA
 
